@@ -1,0 +1,463 @@
+{
+  "stx": {
+    "balance": "13500000",
+    "total_miner_rewards_received": "0",
+    "lock_tx_id": "",
+    "locked": "0",
+    "lock_height": 0,
+    "burnchain_lock_height": 0,
+    "burnchain_unlock_height": 0,
+    "estimated_balance": "-6289509300",
+    "pending_balance_inbound": "0",
+    "pending_balance_outbound": "6303009300",
+    "total_sent": "1146447117852",
+    "total_received": "1152901871231",
+    "total_fees_sent": "6441253379"
+  },
+  "fungible_tokens": {
+    "SM26NBC8SFHNW4P1Y4DFH27974P56WN86C92HPEHH.token-vlqstx::vlqstx": {
+      "balance": "0",
+      "total_sent": "10635506097",
+      "total_received": "10635506097"
+    },
+    "SP01B280QNV2KZ5R9D4EW54AQWWVM3THH9KNVK2S.floki::floki": {
+      "balance": "15000000000",
+      "total_sent": "0",
+      "total_received": "15000000000"
+    },
+    "SP12JCJYJJ31C59MV94SNFFM4687H9A04Q3BHTAJM.NoCodeClarity-Token::NoCodeClarity-Token": {
+      "balance": "2502500",
+      "total_sent": "0",
+      "total_received": "2502500"
+    },
+    "SP13XTE1X5CBEDB8N3YNZBPZP59TGA8W6F36WQ1T8.foundry-s44cbmYK::TRUMP": {
+      "balance": "1",
+      "total_sent": "0",
+      "total_received": "1"
+    },
+    "SP16KWQY6ZPXNYT43A4RKXBXMFT3V7ZMV5YYNR1CK.mojo::Mojo": {
+      "balance": "40000000000",
+      "total_sent": "0",
+      "total_received": "40000000000"
+    },
+    "SP1AY6K3PQV5MRT6R4S671NWW2FRVPKM0BR162CT6.leo-token::leo": {
+      "balance": "0",
+      "total_sent": "9500823253350000",
+      "total_received": "9500823253350000"
+    },
+    "SP1DKB7A30ZRKCPN46Y2J1NQWA1GYT44R0ZMBXF6X.ToDaMoon::ToDaMoon": {
+      "balance": "5000000",
+      "total_sent": "0",
+      "total_received": "5000000"
+    },
+    "SP1EJYSM3PDXCFKPY09CM2M13FPS26YVTCAH0R95E.TardlexLabsTokenContract::TardlexLabs": {
+      "balance": "10000000000",
+      "total_sent": "0",
+      "total_received": "10000000000"
+    },
+    "SP1JFFSYTSH7VBM54K29ZFS9H4SVB67EA8VT2MYJ9.gus-token::gus": {
+      "balance": "0",
+      "total_sent": "9350000000000000",
+      "total_received": "9350000000000000"
+    },
+    "SP1N4EXSR8DP5GRN2XCWZEW9PR32JHNRYW7MVPNTA.PomerenianBoo-Pomboo::PomeranianBoo": {
+      "balance": "0",
+      "total_sent": "3000000000000000",
+      "total_received": "3000000000000000"
+    },
+    "SP1PW804599BZ46B4A0FYH86ED26XPJA7SFYNK1XS.play::play": {
+      "balance": "0",
+      "total_sent": "6000000000000000",
+      "total_received": "6000000000000000"
+    },
+    "SP1Q4E6971M7HJ6H8XXDSCAFJ96GEQ02RNN8S55ZZ.bull::BULL": {
+      "balance": "1976",
+      "total_sent": "0",
+      "total_received": "1976"
+    },
+    "SP1Q4E6971M7HJ6H8XXDSCAFJ96GEQ02RNN8S55ZZ.doge::DOGE": {
+      "balance": "19696969696",
+      "total_sent": "0",
+      "total_received": "19696969696"
+    },
+    "SP1V5D6BNV5VB5DNGA28RW8P4XD3XNK8QBZSG217A.nakamoto-token-v2::nakamoto": {
+      "balance": "2100000000000",
+      "total_sent": "0",
+      "total_received": "2100000000000"
+    },
+    "SP1Z92MPDQEWZXW36VX71Q25HKF5K2EPCJ304F275.tokensoft-token-v4k68639zxz::tokensoft-token": {
+      "balance": "0",
+      "total_sent": "396731614144",
+      "total_received": "396731614144"
+    },
+    "SP1Z92MPDQEWZXW36VX71Q25HKF5K2EPCJ304F275.tokensoft-token-v4kr5skoysg::tokensoft-token": {
+      "balance": "5050000000000",
+      "total_sent": "0",
+      "total_received": "5050000000000"
+    },
+    "SP1Z92MPDQEWZXW36VX71Q25HKF5K2EPCJ304F275.tokensoft-token-v4kr9vt747c::tokensoft-token": {
+      "balance": "285250000",
+      "total_sent": "0",
+      "total_received": "285250000"
+    },
+    "SP265WBWD4NH7TVPYQTVD23X3607NNK4484DTXQZ3.longcoin::longcoin": {
+      "balance": "0",
+      "total_sent": "551113999999560001",
+      "total_received": "551113999999560001"
+    },
+    "SP26BVHEKMZSAKZ4PZ5SFPZVMRHDKH99D2Z38TK1Y.kiki-token::kiki": {
+      "balance": "5000000",
+      "total_sent": "0",
+      "total_received": "5000000"
+    },
+    "SP28NB976TJHHGF4218KT194NPWP9N1X3WY516Z1P.Hashiko::hashiko": {
+      "balance": "0",
+      "total_sent": "1320000000000",
+      "total_received": "1320000000000"
+    },
+    "SP2A8GZ4JQ10D52CJ34MWHN05EQDRK5DQZT7SCM5E.InfiniteQuadrant::IQ": {
+      "balance": "200000000000",
+      "total_sent": "0",
+      "total_received": "200000000000"
+    },
+    "SP2F4QC563WN0A0949WPH5W1YXVC4M1R46QKE0G14.memegoatstx::memegoatstx": {
+      "balance": "0",
+      "total_sent": "250240000000000",
+      "total_received": "250240000000000"
+    },
+    "SP2HQVTV14DE31XQZE84G0EA2MFQY8G49R7RBAQZ2.theroaringkitty::DFV": {
+      "balance": "1008000",
+      "total_sent": "0",
+      "total_received": "1008000"
+    },
+    "SP2QF5522FB9Y4X35TPGX29H7F4EMH5RSZV27X7FH.wemp-token::WelshMarioPizzaParty69Inu": {
+      "balance": "69000000000",
+      "total_sent": "0",
+      "total_received": "69000000000"
+    },
+    "SP2S3EAXSRJBVQ1GQSKTM1D14C1ED8KG9H43KF0FC.Fight::Fight": {
+      "balance": "1350000000",
+      "total_sent": "0",
+      "total_received": "1350000000"
+    },
+    "SP2VGJQAB0T7R2Y9S2PJRNPDEW91CM2YCDYJGGPQS.mooneeb::mooneeb": {
+      "balance": "0",
+      "total_sent": "400069420000000",
+      "total_received": "400069420000000"
+    },
+    "SP2Y8T3TR3FKH3Y2FPZVNQAEKNJXKWVS4RVQF48JE.stakemouse::stakemouse": {
+      "balance": "0",
+      "total_sent": "41560640995000000",
+      "total_received": "41560640995000000"
+    },
+    "SP32AEEF6WW5Y0NMJ1S8SBSZDAY8R5J32NBZFPKKZ.nope::NOT": {
+      "balance": "20000",
+      "total_sent": "891000000001",
+      "total_received": "891000020001"
+    },
+    "SP32AEEF6WW5Y0NMJ1S8SBSZDAY8R5J32NBZFPKKZ.wrapped-nothing-v8::wrapped-nthng": {
+      "balance": "14206942069",
+      "total_sent": "0",
+      "total_received": "14206942069"
+    },
+    "SP351ZJK9F5AWZJEEZGZ7NZKSRKA65EWFRR48V9KS.ALL::ALL": {
+      "balance": "0",
+      "total_sent": "207158275",
+      "total_received": "207158275"
+    },
+    "SP3951VNPC55BMS9RCF6SKRZP4K3Q2PQ2RSM1DD1V.fast::fast": {
+      "balance": "0",
+      "total_sent": "7000000000000000",
+      "total_received": "7000000000000000"
+    },
+    "SP3D6PV2ACBPEKYJTCMH7HEN02KP87QSP8KTEH335.mega::mega": {
+      "balance": "0",
+      "total_sent": "1000000",
+      "total_received": "1000000"
+    },
+    "SP3DX3H4FEYZJZ586MFBS25ZW3HZDMEW92260R2PR.Wrapped-Bitcoin::wrapped-bitcoin": {
+      "balance": "0",
+      "total_sent": "100100000",
+      "total_received": "100100000"
+    },
+    "SP3FDZ98RZZ67SDNSCXT4TQAYHWCAH0H37K2V153F.yiyayiya::yiyayiya": {
+      "balance": "100000000000",
+      "total_sent": "0",
+      "total_received": "100000000000"
+    },
+    "SP3K8BC0PPEVCV7NZ6QSRWPQ2JE9E5B6N3PA0KBR9.age000-governance-token::alex": {
+      "balance": "0",
+      "total_sent": "18391522973113452",
+      "total_received": "18391522973113452"
+    },
+    "SP3K8BC0PPEVCV7NZ6QSRWPQ2JE9E5B6N3PA0KBR9.auto-alex-v2::auto-alex-v2": {
+      "balance": "107204466",
+      "total_sent": "100000000",
+      "total_received": "207204466"
+    },
+    "SP3K8BC0PPEVCV7NZ6QSRWPQ2JE9E5B6N3PA0KBR9.auto-alex::auto-alex": {
+      "balance": "53686155508026",
+      "total_sent": "15703076071794855",
+      "total_received": "15756762227302881"
+    },
+    "SP3K8BC0PPEVCV7NZ6QSRWPQ2JE9E5B6N3PA0KBR9.brc20-aiptp::brc20-aiptp": {
+      "balance": "758110908518300",
+      "total_sent": "0",
+      "total_received": "758110908518300"
+    },
+    "SP3K8BC0PPEVCV7NZ6QSRWPQ2JE9E5B6N3PA0KBR9.brc20-chax::brc20-chax": {
+      "balance": "95005789474",
+      "total_sent": "39851691794210526",
+      "total_received": "39851786800000000"
+    },
+    "SP3K8BC0PPEVCV7NZ6QSRWPQ2JE9E5B6N3PA0KBR9.brc20-cvlt::brc20-cvlt": {
+      "balance": "43330000000",
+      "total_sent": "0",
+      "total_received": "43330000000"
+    },
+    "SP3K8BC0PPEVCV7NZ6QSRWPQ2JE9E5B6N3PA0KBR9.brc20-db20::brc20-db20": {
+      "balance": "57291379386",
+      "total_sent": "10000000000",
+      "total_received": "67291379386"
+    },
+    "SP3K8BC0PPEVCV7NZ6QSRWPQ2JE9E5B6N3PA0KBR9.brc20-dexm::brc20-dexm": {
+      "balance": "457590851800",
+      "total_sent": "0",
+      "total_received": "457590851800"
+    },
+    "SP3K8BC0PPEVCV7NZ6QSRWPQ2JE9E5B6N3PA0KBR9.brc20-insc::brc20-insc": {
+      "balance": "25124453900",
+      "total_sent": "0",
+      "total_received": "25124453900"
+    },
+    "SP3K8BC0PPEVCV7NZ6QSRWPQ2JE9E5B6N3PA0KBR9.brc20-izip::brc20-izip": {
+      "balance": "0",
+      "total_sent": "287500000000000",
+      "total_received": "287500000000000"
+    },
+    "SP3K8BC0PPEVCV7NZ6QSRWPQ2JE9E5B6N3PA0KBR9.brc20-lbow::brc20-lbow": {
+      "balance": "1200000000",
+      "total_sent": "0",
+      "total_received": "1200000000"
+    },
+    "SP3K8BC0PPEVCV7NZ6QSRWPQ2JE9E5B6N3PA0KBR9.brc20-long::brc20-long": {
+      "balance": "340021721700",
+      "total_sent": "0",
+      "total_received": "340021721700"
+    },
+    "SP3K8BC0PPEVCV7NZ6QSRWPQ2JE9E5B6N3PA0KBR9.brc20-majo::brc20-majo": {
+      "balance": "4456444500",
+      "total_sent": "0",
+      "total_received": "4456444500"
+    },
+    "SP3K8BC0PPEVCV7NZ6QSRWPQ2JE9E5B6N3PA0KBR9.brc20-maxi::brc20-maxi": {
+      "balance": "22429172100",
+      "total_sent": "0",
+      "total_received": "22429172100"
+    },
+    "SP3K8BC0PPEVCV7NZ6QSRWPQ2JE9E5B6N3PA0KBR9.brc20-ordg::brc20-ordg": {
+      "balance": "2600000000",
+      "total_sent": "21247400000000",
+      "total_received": "21250000000000"
+    },
+    "SP3K8BC0PPEVCV7NZ6QSRWPQ2JE9E5B6N3PA0KBR9.brc20-ordi::brc20-ordi": {
+      "balance": "42100000",
+      "total_sent": "4500000000",
+      "total_received": "4542100000"
+    },
+    "SP3K8BC0PPEVCV7NZ6QSRWPQ2JE9E5B6N3PA0KBR9.brc20-ormm::brc20-ormm": {
+      "balance": "17110563736980",
+      "total_sent": "66982889436263020",
+      "total_received": "67000000000000000"
+    },
+    "SP3K8BC0PPEVCV7NZ6QSRWPQ2JE9E5B6N3PA0KBR9.brc20-ornj::brc20-ornj": {
+      "balance": "65000000000",
+      "total_sent": "191640000000000",
+      "total_received": "191705000000000"
+    },
+    "SP3K8BC0PPEVCV7NZ6QSRWPQ2JE9E5B6N3PA0KBR9.brc20-oxbt::brc20-oxbt": {
+      "balance": "168466000000",
+      "total_sent": "0",
+      "total_received": "168466000000"
+    },
+    "SP3K8BC0PPEVCV7NZ6QSRWPQ2JE9E5B6N3PA0KBR9.brc20-piza::brc20-piza": {
+      "balance": "16217639700",
+      "total_sent": "0",
+      "total_received": "16217639700"
+    },
+    "SP3K8BC0PPEVCV7NZ6QSRWPQ2JE9E5B6N3PA0KBR9.brc20-reos::brc20-reos": {
+      "balance": "1500000000000",
+      "total_sent": "0",
+      "total_received": "1500000000000"
+    },
+    "SP3K8BC0PPEVCV7NZ6QSRWPQ2JE9E5B6N3PA0KBR9.brc20-sats::brc20-sats": {
+      "balance": "5500010000000000",
+      "total_sent": "2000079999799990000000000",
+      "total_received": "2000080005300000000000000"
+    },
+    "SP3K8BC0PPEVCV7NZ6QSRWPQ2JE9E5B6N3PA0KBR9.brc20-shnt::brc20-shnt": {
+      "balance": "510893279515",
+      "total_sent": "0",
+      "total_received": "510893279515"
+    },
+    "SP3K8BC0PPEVCV7NZ6QSRWPQ2JE9E5B6N3PA0KBR9.brc20-taro::brc20-taro": {
+      "balance": "6600000000",
+      "total_sent": "0",
+      "total_received": "6600000000"
+    },
+    "SP3K8BC0PPEVCV7NZ6QSRWPQ2JE9E5B6N3PA0KBR9.brc20-trio::brc20-trio": {
+      "balance": "0",
+      "total_sent": "22634750000000",
+      "total_received": "22634750000000"
+    },
+    "SP3K8BC0PPEVCV7NZ6QSRWPQ2JE9E5B6N3PA0KBR9.brc20-tx20::brc20-tx20": {
+      "balance": "104664000000",
+      "total_sent": "261800100000000",
+      "total_received": "261904764000000"
+    },
+    "SP3K8BC0PPEVCV7NZ6QSRWPQ2JE9E5B6N3PA0KBR9.brc20-vmpx::brc20-vmpx": {
+      "balance": "1000000000",
+      "total_sent": "0",
+      "total_received": "1000000000"
+    },
+    "SP3K8BC0PPEVCV7NZ6QSRWPQ2JE9E5B6N3PA0KBR9.ordinals-bluewheel::ordinals-bluewheel": {
+      "balance": "0",
+      "total_sent": "200",
+      "total_received": "200"
+    },
+    "SP3K8BC0PPEVCV7NZ6QSRWPQ2JE9E5B6N3PA0KBR9.stx20-stxs::stx20-stxs": {
+      "balance": "8000000000",
+      "total_sent": "23992000000000",
+      "total_received": "24000000000000"
+    },
+    "SP3K8BC0PPEVCV7NZ6QSRWPQ2JE9E5B6N3PA0KBR9.token-abtc::bridged-btc": {
+      "balance": "0",
+      "total_sent": "1513534991",
+      "total_received": "1513534991"
+    },
+    "SP3K8BC0PPEVCV7NZ6QSRWPQ2JE9E5B6N3PA0KBR9.token-amm-swap-pool-v1-1::amm-swap-pool-v1-1": {
+      "balance": "58643312774067234764",
+      "total_sent": "94410825887484218327",
+      "total_received": "153054138661551453091"
+    },
+    "SP3K8BC0PPEVCV7NZ6QSRWPQ2JE9E5B6N3PA0KBR9.token-slunr::bridged-lunr": {
+      "balance": "32562391242",
+      "total_sent": "17148723860406",
+      "total_received": "17181286251648"
+    },
+    "SP3K8BC0PPEVCV7NZ6QSRWPQ2JE9E5B6N3PA0KBR9.token-ssko::bridged-sko": {
+      "balance": "17499901162791",
+      "total_sent": "270204644701536",
+      "total_received": "287704545864327"
+    },
+    "SP3K8BC0PPEVCV7NZ6QSRWPQ2JE9E5B6N3PA0KBR9.token-susdt::bridged-usdt": {
+      "balance": "0",
+      "total_sent": "32558681009384",
+      "total_received": "32558681009384"
+    },
+    "SP3MRT36YWK7R0SKFCQ1TDJB3Y3XBAVRFXPYBQ33E.Something-v420::Something": {
+      "balance": "777000000",
+      "total_sent": "0",
+      "total_received": "777000000"
+    },
+    "SP3NE50GEXFG9SZGTT51P40X2CKYSZ5CC4ZTZ7A2G.welshcorgicoin-token::welshcorgicoin": {
+      "balance": "4924890000",
+      "total_sent": "176110000",
+      "total_received": "5101000000"
+    },
+    "SP3WPNAEBYMX06RQNNYTH5PTJ1FRGX5A13ZZMZ01D.dogwifhat-token::wif": {
+      "balance": "0",
+      "total_sent": "8750000000000000",
+      "total_received": "8750000000000000"
+    },
+    "SP3XR2EN9C51B09MJE7EF73Q3GR4HXY1Z28KR4QY8.fox::FOX": {
+      "balance": "586942069420",
+      "total_sent": "0",
+      "total_received": "586942069420"
+    },
+    "SP4M2C88EE8RQZPYTC4PZ88CE16YGP825EYF6KBQ.stacks-rock::rock": {
+      "balance": "0",
+      "total_sent": "348013938000000",
+      "total_received": "348013938000000"
+    },
+    "SP7V1SE7EA3ZG3QTWSBA2AAG8SRHEYJ06EBBD1J2.max-token::max": {
+      "balance": "0",
+      "total_sent": "8253114901059750",
+      "total_received": "8253114901059750"
+    },
+    "SPBNMD07T0WD2WJAH6JZJG07GYSF0X413V69J3T9.Ponzy-STACKS::PonzyStacks": {
+      "balance": "300000000",
+      "total_sent": "0",
+      "total_received": "300000000"
+    },
+    "SPPK49DG7WR1J5D50GZ4W7DYYWM5MAXSX0ZA9VEJ.FrodoSaylorKeanuPepe10Inu-token-v69::FrodoSaylorKeanuPepe10Inu": {
+      "balance": "0",
+      "total_sent": "17079526000000",
+      "total_received": "17079526000000"
+    },
+    "SPR3DVDH77P3TTDWZVWB6F04BQJR1H9TRAWQPVR4.Emote::Emo": {
+      "balance": "2000100000",
+      "total_sent": "0",
+      "total_received": "2000100000"
+    },
+    "SPWECF3XYVRBRCN23CJJCX9XKSF8RFWQPAQMWXT.blockstack::BLOCKSTACK": {
+      "balance": "70000000000",
+      "total_sent": "0",
+      "total_received": "70000000000"
+    },
+    "SPXZB55NWTRQM02QYK7Z6K2PP7F279F640HAYTPG.TwinsPig::TwinPigletsCoin": {
+      "balance": "0",
+      "total_sent": "20000000000",
+      "total_received": "20000000000"
+    },
+    "SPYM12M2CNYEPFQAG2W6MQHHF5MQCFWDR3PP67QZ.just_up::just_up": {
+      "balance": "100000000",
+      "total_sent": "0",
+      "total_received": "100000000"
+    },
+    "SPZPCKV8CNH9PRX2D3XB44DR9S72H10ERB6S57HG.satoshi-btc-stxcity::SABTC": {
+      "balance": "10000000",
+      "total_sent": "0",
+      "total_received": "10000000"
+    }
+  },
+  "non_fungible_tokens": {
+    "SP000000000000000000002Q6VF78.bns::names": {
+      "count": "1",
+      "total_sent": "0",
+      "total_received": "1"
+    },
+    "SP26QQ5BGSFYSSK6RE33VB97X1V1W96GSXXXHA7CZ.aibtcdev-airdrop-2::aibtcdev-2": {
+      "count": "1",
+      "total_sent": "0",
+      "total_received": "1"
+    },
+    "SP2JMM3PH9AGMASBD11SHG4HWDS6CTY9MGN6CW48G.BNS-V2::BNS-V2": {
+      "count": "1",
+      "total_sent": "0",
+      "total_received": "1"
+    },
+    "SP2QEZ06AGJ3RKJPBV14SY1V5BBFNAW33D96YPGZF.BNS-V2::BNS-V2": {
+      "count": "1",
+      "total_sent": "0",
+      "total_received": "1"
+    },
+    "SP97M6Z0T8MHKJ6NZE0GS6TRERCG3GW1WVJ4NVGT.aibtcdev-airdrop-1::aibtcdev-1": {
+      "count": "1",
+      "total_sent": "0",
+      "total_received": "1"
+    },
+    "SPBNM1GTXG6BGF3MERGPW0M3G05K31H5EFKAAKR1.cubeheads::cubeheads": {
+      "count": "1",
+      "total_sent": "0",
+      "total_received": "1"
+    },
+    "SPVD6CE8RW90BGGKJZTKCSMGKS7HP0K8364TFR48.bitcoin-faces-airdrop::bitcoin-faces": {
+      "count": "1",
+      "total_sent": "0",
+      "total_received": "1"
+    }
+  }
+}
+
+
