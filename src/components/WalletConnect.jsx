@@ -57,9 +57,9 @@ function WalletConnect({ onWalletConnected }) {
         <button
           onClick={connectWallet}
           disabled={isLoading}
-          className="group relative bg-white text-purple-600 font-bold py-2.5 px-5 md:py-3 md:px-6 rounded-xl hover:shadow-xl hover:scale-105 active:scale-95 transform transition-all duration-200 disabled:opacity-50 disabled:cursor-not-allowed disabled:hover:scale-100 text-sm md:text-base overflow-hidden"
+          className="group relative bg-white text-purple-600 font-bold py-2.5 px-5 md:py-3 md:px-6 rounded-xl hover:shadow-xl hover:scale-105 active:scale-95 transform transition-all duration-200 disabled:opacity-50 disabled:cursor-not-allowed disabled:hover:scale-100 text-sm md:text-base overflow-hidden cursor-pointer"
         >
-          <div className="absolute inset-0 bg-gradient-to-r from-yellow-400 to-pink-400 opacity-0 group-hover:opacity-20 transition"></div>
+          <div className="absolute inset-0 bg-linear-to-r from-yellow-400 to-pink-400 opacity-0 group-hover:opacity-20 transition"></div>
           <span className="relative flex items-center gap-2">
             {isLoading ? (
               <>
