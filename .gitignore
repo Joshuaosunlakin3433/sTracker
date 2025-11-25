@@ -23,8 +23,10 @@ dist-ssr
 *.sln
 *.sw?
 
-PROJECT_ROADMAP.md
-DAILY_NOTES.md
-PROTOCOLS.md
+# Documentation and notes (not pushed to GitHub)
+*.md
+!README.md
+*.txt
+
+# Config/data files (not pushed to GitHub)
 api-examples.json
-test-addresses.txt

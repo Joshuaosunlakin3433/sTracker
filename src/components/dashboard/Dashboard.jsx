@@ -1,5 +1,7 @@
 import BalanceCard from "../BalanceCard";
 import HealthScore from "../HealthScore";
+import TokenList from "./TokenList";
+import TransactionHistory from "./TransactionHistory";
 
 const Dashboard = ({ connectedAddress, portfolioData }) => {
   return (
@@ -17,21 +19,15 @@ const Dashboard = ({ connectedAddress, portfolioData }) => {
           {/* STX Balance */}
           <BalanceCard address={connectedAddress} />
 
-          {/* Tokens Coming Soon */}
-          <div className="bg-white rounded-2xl p-8 shadow-xl">
-            <div className="flex items-center gap-3 mb-4">
-              <div className="text-2xl">🪙</div>
-              <h3 className="text-2xl font-bold text-gray-800">Your Tokens</h3>
-            </div>
-            <div className="text-center py-8 text-gray-500">
-              <div className="text-4xl mb-2">🚧</div>
-              <p className="text-sm">Token list coming next...</p>
-            </div>
-          </div>
+          {/* Token List */}
+          <TokenList address={connectedAddress} />
         </div>
 
         {/* AI Health Score & Recommendations */}
         <HealthScore portfolioData={portfolioData} />
+
+        {/* Transaction History */}
+        <TransactionHistory address={connectedAddress} />
 
         {/* DeFi Positions Coming Soon */}
         <div className="bg-white rounded-2xl p-8 shadow-xl">

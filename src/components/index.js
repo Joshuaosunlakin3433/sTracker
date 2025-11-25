@@ -11,6 +11,8 @@ export { default as WhySection } from "./landing/WhySection";
 
 // Dashboard Components
 export { default as Dashboard } from "./dashboard/Dashboard";
+export { default as TokenList } from "./dashboard/TokenList";
+export { default as TransactionHistory } from "./dashboard/TransactionHistory";
 
 // Feature Components
 export { default as BalanceCard } from "./BalanceCard";
